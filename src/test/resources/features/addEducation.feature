@@ -1,4 +1,6 @@
-@login @regression
+@regression
+@login
+
 Feature: Add education Tests
 
 
